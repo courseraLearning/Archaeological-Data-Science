@@ -1,5 +1,5 @@
 # Archaeological-Data-Science
-# Payments Application Data Archaeology - Complete Implementation Guide
+# Application Data Archaeology - Complete Implementation Guide
 
 ## Phase 1: Initial Data Discovery & Profiling
 
